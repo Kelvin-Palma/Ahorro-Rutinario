@@ -6,8 +6,6 @@ La función principal de la app es mediante un calendario cumplir retos de ahorr
 
 La aplicación tendra login, permitiendo el acceso a una cuenta personal de cada usuario aunque tambien permite usarse sin iniciar sesion, podra generar notificaciones para tener al usuario pendiente de sus habitos de ahorro,
 
----
-
 ## Historias de usuario🧍‍♂️
 
 **MVP 🥇:**
@@ -21,15 +19,9 @@ Como usuario quiero poder desmarcar una casilla que marque por error.
 
 Como usuario quiero ver cuanto llevo ahorrado frente a la meta.
 
-###
----
-
 ## Modelo Entidad Relación:
 
 ![Diagrama ER](docs/ER.png)
-
-###
----
 
 ## **Proximas versiones:**
 Como usuario quiero tener la opción de entrar a mi cuenta desde otros dispositivos para tener acceso a mis datos.
@@ -40,5 +32,6 @@ Como usuario quiero ver el historial de meses anteriores.
 
 Como usuario quiero recibir un recordatorio diario para ahorrar.
 
-###
 ---
+
+Kelvin Andres Palma
